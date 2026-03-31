@@ -1,0 +1,119 @@
+{
+  "name": "Stefano Finocchiaro",
+  "photo": "assets/images/profile-photo.jpg",
+  "title": "Senior Android Engineer",
+  "bio": "I started my journey to become an Android developer when I was at high school, fascinated by the openness of the platform. I've developed great quality apps and improved my skills working in diverse environments, from startups to massive scale companies. Passionate about learning new technologies and implementing impactful solutions at scale.",
+  "location": "Dublin, Ireland",
+  "email": "stefanuc111@gmail.com",
+  "github": "https://github.com/stefanuc111",
+  "linkedin": "https://www.linkedin.com/in/stefano-finocchiaro-77b9749b/",
+  "skills": [
+    "Android SDK",
+    "Java",
+    "Kotlin",
+    "Coroutines",
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "PHP",
+    "HTML",
+    "JavaScript",
+    "CSS3",
+    "C",
+    "C++",
+    "Python",
+    "JSON",
+    "Git",
+    "Linux",
+    "Unity",
+    "Ethereum (Solidity)",
+    "CI/CD Automation",
+    "LLMs"
+  ],
+  "experience": [
+    {
+      "company": "Binance",
+      "role": "Senior Android Engineer",
+      "period": "05 2022 - CURRENT",
+      "description": "Working on the main Binance app, focusing on CI/CD automations and performance optimizations.",
+      "logo": "assets/images/binance/binance-icon.png",
+      "url": "https://www.binance.com"
+    },
+    {
+      "company": "Fincons",
+      "role": "Android Developer",
+      "period": "04 2021 - 05 2022",
+      "description": "Mainly worked on PostePay and BancoPosta projects, implementing new features and maintaining them.",
+      "logo": "assets/images/fincons-logo.png",
+      "url": "https://www.finconsgroup.com"
+    },
+    {
+      "company": "PED (Pane&Design)",
+      "role": "Android Developer",
+      "period": "05 2014 - 03 2021",
+      "description": "Developed beautiful projects in a team environment, discovering my potential and learning how to deliver high-quality code.",
+      "logo": "assets/images/ped-logo.png",
+      "url": "https://paneedesign.com"
+    },
+    {
+      "company": "CharityStars",
+      "role": "Android Developer",
+      "period": "2014 - 03 2021",
+      "description": "Worked on the CharityStars Android app and live event apps.",
+      "logo": "assets/images/CharityStars/icon.png",
+      "url": "https://www.charitystars.com"
+    },
+    {
+      "company": "AidCoin",
+      "role": "Smart Contract Developer",
+      "period": "2017 - 2018",
+      "description": "Developed blockchain-based solutions for charitable giving, bringing transparency to the non-profit sector.",
+      "logo": "assets/images/aidcoin-logo.png",
+      "url": "https://coinmarketcap.com/currencies/aidcoin/"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Associate Android Developer",
+      "issuer": "Google",
+      "period": "03 2017 - 03 2020"
+    },
+    {
+      "name": "CCNA Discovery",
+      "issuer": "Cisco",
+      "period": "05 2013"
+    },
+    {
+      "name": "IT Essentials",
+      "issuer": "Cisco",
+      "period": "06 2011"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ITIS ENRICO FERMI",
+      "degree": "Diploma in Information Technology",
+      "period": "2008 - 2013"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Italian",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "C1"
+    }
+  ],
+  "hobbies": [
+    "Android",
+    "Machine Learning",
+    "Blockchains",
+    "Drones",
+    "Arduino",
+    "3D Printing",
+    "Home Automation",
+    "Electric Vehicles"
+  ]
+}

@@ -1,0 +1,406 @@
+[
+  {
+    "id": "1",
+    "title": "Binance",
+    "description": "Binance is a global cryptocurrency exchange that provides a platform for trading various cryptocurrencies. It offers a wide range of features, including spot trading, futures trading, and staking. Binance is one of the largest cryptocurrency exchanges in the world by trading volume. I've on the CICD integration and UI comonents, performance optimization and other features of the app.",
+    "icon": "assets/assets/images/binance/binance-icon.png",
+    "screenshots": [
+      "assets/assets/images/binance/3f91e2e5-30ee-4bf4-ab44-03bd1588f66e",
+      "assets/assets/images/binance/88c2f650-d129-4455-9883-44332afaf716",
+      "assets/assets/images/binance/773eb3c4-4b96-4a6d-95b0-95334638d6ba",
+      "assets/assets/images/binance/bda9ae28-d959-4732-80a1-bf107c79cc4a",
+      "assets/assets/images/binance/dcebb3fc-e5e2-4a12-a8b1-995635f453a4",
+      "assets/assets/images/binance/dd9b6f2a-f978-4dbd-84bf-4ef73f0f9312",
+      "assets/assets/images/binance/e0b23ee4-fbd8-4e41-b23f-3ec96cb68ee9"
+    ],
+    "technologies": [
+      "Kotlin",
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=com.binance.dev",
+    "company": "Binance",
+    "codePercentage": 5,
+    "rating": 4.5,
+    "downloads": "100M+"
+  },
+  {
+    "id": "2",
+    "title": "PostePay",
+    "description": "Postepay is a popular range of prepaid and debit cards in Italy, issued by Poste Italiane. These cards operate on major international circuits like Visa and Mastercard, making them usable for online shopping and physical store purchases worldwide. I've mainly worked on the purchacse flow of the products, performance optimization and other features of the app.",
+    "icon": "assets/assets/images/postepay/postepaylogo.webp",
+    "screenshots": [
+      "assets/assets/images/postepay/screen_1.webp",
+      "assets/assets/images/postepay/screen_2.webp",
+      "assets/assets/images/postepay/screen_3.webp",
+      "assets/assets/images/postepay/screen_4.webp",
+      "assets/assets/images/postepay/screen_5.webp",
+      "assets/assets/images/postepay/screen_6.webp",
+      "assets/assets/images/postepay/screen_7.webp",
+      "assets/assets/images/postepay/screen_8.webp",
+      "assets/assets/images/postepay/screen_9.webp",
+      "assets/assets/images/postepay/screen_10.webp",
+      "assets/assets/images/postepay/screen_11.webp",
+      "assets/assets/images/postepay/screen_12.webp"
+    ],
+    "technologies": [
+      "Kotlin",
+      "Java",
+      "Android SDK"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=posteitaliane.posteapp.apppostepay",
+    "company": "Poste Italiane",
+    "codePercentage": 10,
+    "rating": 4.8,
+    "downloads": "10M+"
+  },
+  {
+    "id": "3",
+    "title": "BancoPosta",
+    "description": "BancoPosta is the financial services division of Poste Italiane, Italy's national postal service. It functions as a major banking and savings system, though it operates without a full independent banking license, often distributing products from third-party partners.",
+    "icon": "assets/assets/images/bancoposta/icon.webp",
+    "screenshots": [
+      "assets/assets/images/bancoposta/screen_1.webp",
+      "assets/assets/images/bancoposta/screen_2.webp",
+      "assets/assets/images/bancoposta/screen_3.webp",
+      "assets/assets/images/bancoposta/screen_4.webp",
+      "assets/assets/images/bancoposta/screen_5.webp",
+      "assets/assets/images/bancoposta/screen_6.webp",
+      "assets/assets/images/bancoposta/screen_7.webp",
+      "assets/assets/images/bancoposta/screen_8.webp",
+      "assets/assets/images/bancoposta/screen_10.webp"
+    ],
+    "technologies": [
+      "Kotlin",
+      "Java",
+      "Android SDK"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=posteitaliane.posteapp.appbpol",
+    "company": "Poste Italiane",
+    "codePercentage": 10,
+    "downloads": "10M+"
+  },
+  {
+    "id": "4",
+    "title": "Gianluca Di Marzio",
+    "description": "The official Gianluca Di Marzio app is a real-time football news platform focused on the transfer market, providing breaking news, negotiations, and rumors. I've maintained the app updated to latest Android versions and features and added new features.",
+    "icon": "assets/assets/images/GDM/icon.png",
+    "screenshots": [
+      "assets/assets/images/GDM/screen_1.webp",
+      "assets/assets/images/GDM/screen_2.webp",
+      "assets/assets/images/GDM/screen_3.webp",
+      "assets/assets/images/GDM/screen_4.webp",
+      "assets/assets/images/GDM/screen_5.webp",
+      "assets/assets/images/GDM/screen_6.webp",
+      "assets/assets/images/GDM/screen_7.webp",
+      "assets/assets/images/GDM/screen_8.webp"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit",
+      "RxJava"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=com.gianlucadimarzio.magellanotech",
+    "company": "Garoo",
+    "codePercentage": 20
+  },
+  {
+    "id": "5",
+    "title": "CharityStars",
+    "description": "CharityStars is a global online auction platform that specializes in high-impact fundraising through the sale of exclusive items and \"money-can't-buy\" experiences. Their gala events are a core part of their service, helping non-profits minimize costs while maximizing revenue. \n\nI've developed an app from scratch for gala events that suppors remote app auto updates without use of Play Store using Amazon fire tablets.",
+    "icon": "assets/assets/images/CharityStars/icon.png",
+    "screenshots": [
+      "assets/assets/images/CharityStars/screen_1.webp",
+      "assets/assets/images/CharityStars/screen_2.webp",
+      "assets/assets/images/CharityStars/screen_3.webp",
+      "assets/assets/images/CharityStars/screen_4.webp",
+      "assets/assets/images/CharityStars/screen_5.webp",
+      "assets/assets/images/CharityStars/screen_6.webp",
+      "assets/assets/images/CharityStars/screen_7.webp",
+      "assets/assets/images/CharityStars/screen_8.webp"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit",
+      "WebSockets"
+    ],
+    "company": "PED",
+    "codePercentage": 60
+  },
+  {
+    "id": "6",
+    "title": "BreathePod",
+    "description": "BreathePod is a booking app comprehensive wellness and sanctuary-management app designed to help users book and customize sessions in physical meditation \"pods.\" The app acts as a bridge between the digital user experience and a physical relaxation environment.",
+    "icon": "assets/assets/images/POD_App/icon.png",
+    "screenshots": [
+      "assets/assets/images/POD_App/screen_1.png",
+      "assets/assets/images/POD_App/screen_2.png",
+      "assets/assets/images/POD_App/screen_3.png",
+      "assets/assets/images/POD_App/screen_4.png",
+      "assets/assets/images/POD_App/screen_5.png",
+      "assets/assets/images/POD_App/screen_6.png",
+      "assets/assets/images/POD_App/screen_7.png",
+      "assets/assets/images/POD_App/screen_8.png"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit"
+    ],
+    "company": "PED",
+    "codePercentage": 60
+  },
+  {
+    "id": "7",
+    "title": "BreathePod In-Pod App",
+    "description": "The In-Pod App serves as the interactive control panel (A mounted Android tablet) inside a relaxation booth known as a \"BreathePod.\" It acts as both a media player for wellness content and an environmental controller (lights, seat massage, etc.) for the pod's internal hardware. The app is provisioned at tablet initial startup in Device Owner Mode with privileged access to the device's hardware and is locked in the tablet. The app also configured the device to get internet access through reversed thetering and comunicated to the connected raspberry PI to control the environment",
+    "icon": "assets/assets/images/POD_TabApp/icon.png",
+    "screenshots": [
+      "assets/assets/images/POD_TabApp/screen_1.png",
+      "assets/assets/images/POD_TabApp/screen_2.png",
+      "assets/assets/images/POD_TabApp/screen_3.png",
+      "assets/assets/images/POD_TabApp/screen_4.png",
+      "assets/assets/images/POD_TabApp/screen_5.png",
+      "assets/assets/images/POD_TabApp/screen_6.png",
+      "assets/assets/images/POD_TabApp/screen_7.png",
+      "assets/assets/images/POD_TabApp/screen_8.png"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit",
+      "WebSockets"
+    ],
+    "company": "PED",
+    "codePercentage": 80
+  },
+  {
+    "id": "8",
+    "title": "Salty",
+    "description": "Salty aimed to digitalize the traditional word-of-mouth market for services. If you needed a plumber, an electrician, a dog-sitter, a makeup artist, or a photographer, you could open Salty to find one nearby.",
+    "icon": "assets/assets/images/Salty/icon.png",
+    "screenshots": [
+      "assets/assets/images/Salty/screen_1.webp",
+      "assets/assets/images/Salty/screen_2.webp",
+      "assets/assets/images/Salty/screen_3.webp",
+      "assets/assets/images/Salty/screen_4.webp",
+      "assets/assets/images/Salty/screen_5.webp"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit"
+    ],
+    "company": "PED",
+    "codePercentage": 100
+  },
+  {
+    "id": "9",
+    "title": "Tatami",
+    "description": "Born during COVID period Tatami is the solution for optimizing actual office capacity through an intuitive and efficient booking system that allows employees to reserve their own workstations avoiding having overcrowded offices.",
+    "icon": "assets/assets/images/Tatami/icon.webp",
+    "screenshots": [
+      "assets/assets/images/Tatami/screen_1.webp",
+      "assets/assets/images/Tatami/screen_2.webp",
+      "assets/assets/images/Tatami/screen_3.webp",
+      "assets/assets/images/Tatami/screen_4.webp",
+      "assets/assets/images/Tatami/screen_5.webp"
+    ],
+    "technologies": [
+      "Flutter"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=com.example.crypto",
+    "company": "PED",
+    "codePercentage": 80
+  },
+  {
+    "id": "10",
+    "title": "Pecky",
+    "description": "Pecky helps you to track online prices and help you get notified when they drop below a certain threshold.",
+    "icon": "assets/assets/images/Pecky/icon.png",
+    "screenshots": [
+      "assets/assets/images/Pecky/screen_1.png",
+      "assets/assets/images/Pecky/screen_2.png",
+      "assets/assets/images/Pecky/screen_3.png",
+      "assets/assets/images/Pecky/screen_4.png"
+    ],
+    "technologies": [
+      "Flutter"
+    ],
+    "company": "PED",
+    "codePercentage": 100
+  },
+  {
+    "id": "11",
+    "title": "Nextwin",
+    "description": "Nextwin look and feel exactly like a real sports betting platform, but it operates entirely as a social game. The goal is to give fans the thrill of predicting matches and building betting slips (schedine) without the financial ruin or addiction risks associated with real-money gambling.",
+    "icon": "assets/assets/images/Nextwin/icon.png",
+    "screenshots": [
+      "assets/assets/images/Nextwin/screen_1.webp",
+      "assets/assets/images/Nextwin/screen_2.webp",
+      "assets/assets/images/Nextwin/screen_3.webp",
+      "assets/assets/images/Nextwin/screen_4.webp"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=com.example.crypto",
+    "company": "PED",
+    "codePercentage": 50
+  },
+  {
+    "id": "12",
+    "title": "Barberinos",
+    "description": "Barberinos is a booking app that allows users to book haircuts and other services at local barber shops.",
+    "icon": "assets/assets/images/Barberinos/icon.png",
+    "screenshots": [
+      "assets/assets/images/Barberinos/screen_1.webp",
+      "assets/assets/images/Barberinos/screen_2.webp",
+      "assets/assets/images/Barberinos/screen_3.webp"
+    ],
+    "technologies": [
+      "Kotlin",
+      "Retrofit"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=com.barberinos",
+    "company": "PED",
+    "codePercentage": 100
+  },
+  {
+    "id": "13",
+    "title": "Noor Rhiad",
+    "description": "Noor Rhiad is Guide to Noor Riyadh Festival\nThe Noor Riyadh app is the definitive guide to Saudi Arabia’s first festival of light and art illuminating the city of Riyadh each year in March. The app allows you to customize your festival visit and learn more about the featured artists, artworks and installations, and events program.\n\nNoor Riyadh is a Riyadh Art project.\n\nFeatures:\n\n• Stay up-to-date with the latest announcements and news\n\n• Explore the festival and customize your visit",
+    "icon": "assets/assets/images/NoorRhiad/icon.webp",
+    "screenshots": [
+      "assets/assets/images/NoorRhiad/screen_0.webp",
+      "assets/assets/images/NoorRhiad/screen_1.webp",
+      "assets/assets/images/NoorRhiad/screen_2.webp",
+      "assets/assets/images/NoorRhiad/screen_3.webp",
+      "assets/assets/images/NoorRhiad/screen_4.webp",
+      "assets/assets/images/NoorRhiad/screen_5.webp",
+      "assets/assets/images/NoorRhiad/screen_6.webp"
+    ],
+    "technologies": [
+      "Flutter",
+      "Firebase"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=sa.noorriyadh.app",
+    "company": "PED",
+    "codePercentage": 90
+  },
+  {
+    "id": "14",
+    "title": "Sanofi",
+    "description": "Sanofi is an android totem app exposed in pharmacies where users could compile a questionnaire in echanges for gadgets.",
+    "icon": "assets/assets/images/Sanofi/icon.png",
+    "screenshots": [
+      "assets/assets/images/Sanofi/screen_1.png",
+      "assets/assets/images/Sanofi/screen_2.png",
+      "assets/assets/images/Sanofi/screen_3.png",
+      "assets/assets/images/Sanofi/screen_4.png",
+      "assets/assets/images/Sanofi/screen_5.png",
+      "assets/assets/images/Sanofi/screen_6.png",
+      "assets/assets/images/Sanofi/screen_7.png",
+      "assets/assets/images/Sanofi/screen_8.png",
+      "assets/assets/images/Sanofi/screen_9.png",
+      "assets/assets/images/Sanofi/screen_10.png",
+      "assets/assets/images/Sanofi/screen_11.png",
+      "assets/assets/images/Sanofi/screen_12.png",
+      "assets/assets/images/Sanofi/screen_13.png"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit",
+      "RxJava"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=com.example.crypto",
+    "company": "PED",
+    "codePercentage": 100
+  },
+  {
+    "id": "15",
+    "title": "CalcioNews24",
+    "description": "Calcionews24, the definitive app for football lovers. With real-time news, live scores and detailed analysis, you'll never miss a crucial moment in your favorite sport again! It also include some mini games",
+    "icon": "assets/assets/images/CN24/icon.png",
+    "screenshots": [
+      "assets/assets/images/CN24/screen_1.webp",
+      "assets/assets/images/CN24/screen_2.webp",
+      "assets/assets/images/CN24/screen_3.webp",
+      "assets/assets/images/CN24/screen_4.webp",
+      "assets/assets/images/CN24/screen_5.webp",
+      "assets/assets/images/CN24/screen_6.webp"
+    ],
+    "technologies": [
+      "Java",
+      "Android SDK",
+      "Unity",
+      "Retrofit"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=com.example.crypto",
+    "company": "PED",
+    "codePercentage": 70
+  },
+  {
+    "id": "16",
+    "title": "Fuudly",
+    "description": "Fuudly is designed as a \"Social Kitchen\"—a dedicated social network built entirely for foodies, gastronomy enthusiasts, food bloggers, and professional chefs. It aimed to be a comprehensive digital hub where users could learn to cook, share their culinary creations, and connect with a community centered around a shared love of food.",
+    "icon": "assets/assets/images/Fuudly/icon.png",
+    "screenshots": [
+      "assets/assets/images/Fuudly/screen_1.webp",
+      "assets/assets/images/Fuudly/screen_2.webp",
+      "assets/assets/images/Fuudly/screen_3.webp",
+      "assets/assets/images/Fuudly/screen_4.webp"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit"
+    ],
+    "playstoreLink": "https://play.google.com/store/apps/details?id=com.example.crypto",
+    "company": "PED",
+    "codePercentage": 80
+  },
+  {
+    "id": "17",
+    "title": "IPCast",
+    "description": "IPCast is a mobile app that allow user to share files between android devices and other devices using the web browser it also allow to directly reproduce phone media on remote devices and remote control them ",
+    "icon": "assets/assets/images/IPCast/icon.png",
+    "screenshots": [
+      "assets/assets/images/IPCast/screen_1.png",
+      "assets/assets/images/IPCast/screen_2.png",
+      "assets/assets/images/IPCast/screen_3.png",
+      "assets/assets/images/IPCast/screen_4.png",
+      "assets/assets/images/IPCast/screen_5.png",
+      "assets/assets/images/IPCast/screen_6.png",
+      "assets/assets/images/IPCast/screen_7.png",
+      "assets/assets/images/IPCast/screen_8.png"
+    ],
+    "technologies": [
+      "Java",
+      "WebSockets",
+      "Retrofit"
+    ],
+    "company": "Personal",
+    "codePercentage": 100
+  },
+  {
+    "id": "18",
+    "title": "JBench",
+    "description": "JBench, my first android project, is an app that allow user to benchmark their android device performances and upload results to a leaderboard to compare with other devices",
+    "icon": "assets/assets/images/JBench/icon.png",
+    "screenshots": [
+      "assets/assets/images/JBench/screen_1.jpg",
+      "assets/assets/images/JBench/screen_2.jpg",
+      "assets/assets/images/JBench/screen_3.jpg",
+      "assets/assets/images/JBench/screen_4.jpg",
+      "assets/assets/images/JBench/screen_5.jpg",
+      "assets/assets/images/JBench/screen_6.jpg",
+      "assets/assets/images/JBench/screen_7.jpg",
+      "assets/assets/images/JBench/screen_8.jpg"
+    ],
+    "technologies": [
+      "Java",
+      "Retrofit"
+    ],
+    "company": "Personal",
+    "codePercentage": 100
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "3D Printing",
+    "description": "Bringing digital creations into the physical world layer by layer. Experimenting with both resin and FDM techniques makes every project unique.",
+    "image": "assets/images/hobbies_passions/3DPrinting.jpg",
+    "url": "https://photos.stefanuc111.freedns.net/s/3dprints"
+  },
+  {
+    "title": "Drones",
+    "description": "Capturing the world from breathtaking vantage points and enjoying the sheer thrill of flight and aerial cinematography.",
+    "image": "assets/images/hobbies_passions/drones.jpg",
+    "url": "https://www.youtube.com/@StefanoFinocchiaro/videos"
+  },
+  {
+    "title": "Electric Vehicles",
+    "description": "Passionate about the future of transportation, energy efficiency, and modernizing the way we commute.",
+    "image": "assets/images/hobbies_passions/SkodaCitigoEV.jpg"
+  },
+  {
+    "title": "New Technologies",
+    "description": "Always exploring the cutting edge of tech, AI, hardware, and learning how futuristic concepts become reality.",
+    "image": "assets/images/hobbies_passions/3DPrintsSpaceRelated.jpg"
+  },
+  {
+    "title": "Environment",
+    "description": "Appreciating and protecting the raw beauty of our planet, from volcanic landscapes to pristine natural reserves.",
+    "image": "assets/images/hobbies_passions/EtnaVolcano.jpg",
+    "url": "https://photos.stefanuc111.freedns.net/s/environment"
+  }
+]
